@@ -51,29 +51,74 @@ Banking professional transitioning into AI-driven development with a growing por
 ## Technology Stack
 
 <div align="center">
-  <p>
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-    <img src="https://img.shields.io/badge/MQL5-4A90E2?style=for-the-badge&logo=MetaQuotes&logoColor=white" alt="MQL5"/>
-  </p>
-  
-  <p>
-    <img src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chart.js&logoColor=white" alt="Chart.js"/>
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
-    <img src="https://img.shields.io/badge/PWA-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white" alt="PWA"/>
-    <img src="https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socket.io&logoColor=white" alt="WebSocket"/>
-    <img src="https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST API"/>
-  </p>
-  
-  <p>
-    <img src="https://img.shields.io/badge/aiogram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="aiogram"/>
-    <img src="https://img.shields.io/badge/telegram.ext-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram.ext"/>
-    <img src="https://img.shields.io/badge/asyncio-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="asyncio"/>
-    <img src="https://img.shields.io/badge/CoinGecko-2D4E96?style=for-the-badge&logo=coingecko&logoColor=white" alt="CoinGecko"/>
-  </p>
+  <table>
+    <tr>
+      <td align="center" width="120px">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="60" height="60" alt="Python"/><br>
+        <strong>Python</strong>
+      </td>
+      <td align="center" width="120px">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" height="60" alt="JavaScript"/><br>
+        <strong>JavaScript</strong>
+      </td>
+      <td align="center" width="120px">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="60" height="60" alt="HTML5"/><br>
+        <strong>HTML5</strong>
+      </td>
+      <td align="center" width="120px">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="60" height="60" alt="CSS3"/><br>
+        <strong>CSS3</strong>
+      </td>
+      <td align="center" width="120px">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="60" height="60" alt="Node.js"/><br>
+        <strong>Node.js</strong>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://www.chartjs.org/img/chartjs-logo.svg" width="60" height="60" alt="Chart.js"/><br>
+        <strong>Chart.js</strong>
+      </td>
+      <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="60" height="60" alt="TypeScript"/><br>
+        <strong>TypeScript</strong>
+      </td>
+      <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="60" height="60" alt="VS Code"/><br>
+        <strong>VS Code</strong>
+      </td>
+      <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" height="60" alt="Git"/><br>
+        <strong>Git</strong>
+      </td>
+      <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="60" height="60" alt="MongoDB"/><br>
+        <strong>MongoDB</strong>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://telegram.org/img/t_logo.svg" width="60" height="60" alt="Telegram API"/><br>
+        <strong>Telegram API</strong>
+      </td>
+      <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="60" height="60" alt="React"/><br>
+        <strong>React</strong>
+      </td>
+      <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="60" height="60" alt="Redis"/><br>
+        <strong>Redis</strong>
+      </td>
+      <td align="center">
+        <img src="https://socket.io/images/logo.svg" width="60" height="60" alt="Socket.io"/><br>
+        <strong>WebSocket</strong>
+      </td>
+      <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="60" height="60" alt="FastAPI"/><br>
+        <strong>REST API</strong>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ## Featured Projects
