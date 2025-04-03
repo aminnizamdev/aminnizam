@@ -1,10 +1,11 @@
 <div align="center">
-  <h1>Amin Mohamad Nizam</h1>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Amin%20Mohamad%20Nizam&fontSize=40&fontAlignY=30&animation=fadeIn&fontColor=white" alt="header">
+  
   <h3>Financial Advisor & Automation Developer</h3>
   <p>
-    <a href="mailto:aminnizam.dev@yahoo.com"><img src="https://img.shields.io/badge/Email-aminnizam.dev%40yahoo.com-blue?style=flat-square&logo=yahoo&logoColor=white"></a>
-    <a href="tel:+60135235852"><img src="https://img.shields.io/badge/Phone-%2B60%2013--523%205852-green?style=flat-square&logo=whatsapp&logoColor=white"></a>
-    <a href="#"><img src="https://img.shields.io/badge/Location-Kajang%2C%20Selangor-orange?style=flat-square&logo=google-maps&logoColor=white"></a>
+    <a href="mailto:aminnizam.dev@yahoo.com"><img src="https://img.shields.io/badge/Email-aminnizam.dev%40yahoo.com-blue?style=for-the-badge&logo=yahoo&logoColor=white"></a>
+    <a href="tel:+60135235852"><img src="https://img.shields.io/badge/Phone-%2B60%2013--523%205852-green?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+    <a href="#"><img src="https://img.shields.io/badge/Location-Kajang%2C%20Selangor-orange?style=for-the-badge&logo=google-maps&logoColor=white"></a>
   </p>
 </div>
 
@@ -15,16 +16,34 @@ Banking professional transitioning into AI-driven development with a growing por
 ## Technical Focus Areas
 
 <div align="center">
-  <table border="0">
+  <table>
     <tr>
-      <td align="center"><img height="40" src="https://cdn4.iconfinder.com/data/icons/artificial-intelligence-44/64/robot-ai-artificial-intelligence-machine-learning-512.png"><br>LLM Orchestration</td>
-      <td align="center"><img height="40" src="https://cdn-icons-png.flaticon.com/512/2510/2510326.png"><br>Crypto Trading Bots</td>
-      <td align="center"><img height="40" src="https://cdn.iconscout.com/icon/free/png-256/free-telegram-3691230-3073750.png"><br>Telegram Systems</td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/LLM%20Orchestration-ChatGPT%20|%20Claude%20|%20Grok-8A2BE2?style=for-the-badge&logo=openai&logoColor=white"><br>
+        <span>Real-time decision support systems</span>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Trading%20Bots-MT5%20|%20MQL5%20|%20ATR-F7931A?style=for-the-badge&logo=bitcoin&logoColor=white"><br>
+        <span>Breakout/retest strategies</span>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Telegram%20Systems-Bot%20API%20|%20Messaging-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"><br>
+        <span>News and contract analysis</span>
+      </td>
     </tr>
     <tr>
-      <td align="center"><img height="40" src="https://cdn-icons-png.flaticon.com/512/1875/1875660.png"><br>WebSocket Dashboards</td>
-      <td align="center"><img height="40" src="https://cdn-icons-png.flaticon.com/512/2282/2282188.png"><br>Frontend Interfaces</td>
-      <td align="center"><img height="40" src="https://cdn-icons-png.flaticon.com/512/2165/2165544.png"><br>API Integrations</td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/WebSocket%20Dashboards-Real--time%20Metrics-4353FF?style=for-the-badge&logo=socket.io&logoColor=white"><br>
+        <span>Token tracking and signal detection</span>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Frontend%20Interfaces-HTML%20|%20CSS%20|%20JS-E34F26?style=for-the-badge&logo=html5&logoColor=white"><br>
+        <span>PWA features and mobile support</span>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/API%20Integrations-Multiple%20Sources-00ADD8?style=for-the-badge&logo=fastapi&logoColor=white"><br>
+        <span>Dexscreener, CryptoPanic, CoinGecko</span>
+      </td>
     </tr>
   </table>
 </div>
@@ -169,11 +188,11 @@ Banking professional transitioning into AI-driven development with a growing por
   <table>
     <tr>
       <td align="center">
-        <img height="60" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/MII_Logo.png/220px-MII_Logo.png">
+        <img src="https://img.shields.io/badge/MII-The%20Malaysian%20Insurance%20Institute-blue?style=for-the-badge" alt="MII"/>
         <p><strong>The Malaysian Insurance Institute</strong><br>Certificate Examination in Investment-Linked (CEILI) Banking<br>Aug 2022 - Dec 2022</p>
       </td>
       <td align="center">
-        <img height="60" src="https://upload.wikimedia.org/wikipedia/ms/thumb/b/b5/Majlis_Amanah_Rakyat_logo.svg/1200px-Majlis_Amanah_Rakyat_logo.svg.png">
+        <img src="https://img.shields.io/badge/MARA-Professional%20College-green?style=for-the-badge" alt="MARA"/>
         <p><strong>MARA Professional College</strong><br>Business Studies Economics | GPA: 3.85<br>Aug 2018 - Jan 2020</p>
       </td>
     </tr>
@@ -208,7 +227,10 @@ Banking professional transitioning into AI-driven development with a growing por
 <hr>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/All%20code%20on%20this%20profile%20is%20self--initiated%20and%20AI--assisted-blue?style=flat-square" alt="Code Info"/>
-  <br><br>
-  <img src="https://img.shields.io/badge/Last%20Updated-April%202025-lightgrey?style=flat-square" alt="Last Updated"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&animation=fadeIn" alt="footer">
+  <p>
+    <img src="https://img.shields.io/badge/All%20code%20on%20this%20profile%20is%20self--initiated%20and%20AI--assisted-blue?style=for-the-badge" alt="Code Info"/>
+    <br><br>
+    <img src="https://img.shields.io/badge/Last%20Updated-April%202025-lightgrey?style=flat-square" alt="Last Updated"/>
+  </p>
 </div>
